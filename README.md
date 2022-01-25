@@ -10,6 +10,8 @@
 </font>
 
 # Requirements 
+- <font size="4">Neovim version 6.0 and later</font>
+- <font size="4">Node JS</font>
 - <font size="4"></font>
 
 # Plugins
