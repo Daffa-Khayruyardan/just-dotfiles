@@ -1,7 +1,7 @@
 # !/bin/sh 
 
 # init color variable
-
+GREEN= 
 
 # install dependencies
 sudo apt install wget curl git php 
