@@ -1,5 +1,8 @@
 # !/bin/sh 
 
+# init color variable
+
+
 # install dependencies
 sudo apt install wget curl git php 
 
@@ -7,7 +10,6 @@ sudo apt install wget curl git php
 clear 
 
 # setup dotfiles logo
-# start logo
 echo -e "${GREEN} ###################################"
-echo -e "${GREEN} #       ${CYAN}Setup Dotfiles${GREEN}      #"
+echo -e "${GREEN} #         ${CYAN}Setup Dotfiles${GREEN}          #"
 echo -e "${GREEN} ###################################"
