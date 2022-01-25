@@ -23,7 +23,7 @@
 # Keymap
 
 | shortcut | command | action |
-| ---- | ---- | ---- | ---- |
+| ---- | ---- | ---- | 
 | ctrl+q | :qa! | quit neovim |
 | ctrl+s | :wq | save file |
 | ctrl+t | :ToggleTerminal | open and close terminal |
