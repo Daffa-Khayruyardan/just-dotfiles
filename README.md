@@ -21,6 +21,7 @@
 - <font size="4"><a href="https://github.com/ryanoasis/vim-devicons">nerdtree dev icon</a></font>
 
 # Keymap
+
 | shortcut | command | action |
 | ---- | ---- | ---- | ---- |
 | ctrl+q | :qa! | quit neovim |
