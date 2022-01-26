@@ -12,15 +12,22 @@
 # Requirements 
 - <font size="4">Neovim version 6.0 and later</font>
 - <font size="4">Node JS</font>
-- <font size="4"></font>
+- <font size="4">yarn</font>
+- <font size="4">python or python3</font>
+- <font size="4">zsh and oh-my-zsh</font>
 
 # Plugins
-- <font size="4"><a href="https://github.com/junegunn/vim-plug">vim plug</a></font>
-- <font size="4"><a href="https://github.com/vim-airline/vim-airline">vim airline</a></font>
-- <font size="4"><a href="https://github.com/907th/vim-auto-save">vim autosave</a></font>
-- <font size="4"><a href="https://github.com/preservim/nerdtree">vim nerdtree</a></font>
-- <font size="4"><a href="https://github.com/joshdick/onedark.vim">one dark theme</a></font>
-- <font size="4"><a href="https://github.com/ryanoasis/vim-devicons">nerdtree dev icon</a></font>
+- <font size="4"><a href="https://github.com/junegunn/vim-plug">vim plug - minimalist vim plugin manager</a></font>
+- <font size="4"><a href="https://github.com/vim-airline/vim-airline">vim airline - code status for neovim</a></font>
+- <font size="4"><a href="https://github.com/907th/vim-auto-save">vim autosave - autosave plugins for neovim</a></font>
+- <font size="4"><a href="https://github.com/preservim/nerdtree">vim nerdtree - minimal filemanager for neovim</a></font>
+- <font size="4"><a href="https://github.com/joshdick/onedark.vim">one dark theme - neovim dark theme</a></font>
+- <font size="4"><a href="https://github.com/ryanoasis/vim-devicons">nerdtree dev icon - nerdtree file and folder icons</a></font>
+- <font size="4"><a href="https://github.com/cohama/lexima.vim">lexima - autoclose parantheses plugins</a></font>
+
+<br>
+
+<font size="5">**NOTE**: If you want to find other alacritty theme you can visit <a href="https://clcode.net/articles/color-schemes.md">here</a></font>
 
 # Keymap
 
@@ -36,8 +43,8 @@
 | ctrl+c | :tabclose | close current tab |
 
 # Installation
-<font size="3">Linux</font>
-
-```
-$ ./install.sh 
-```
+1. Installing NodeJS LTS version using NVM 
+   ```
+   $ nvm install --lts
+   ```
+2. Installing yarn package manager

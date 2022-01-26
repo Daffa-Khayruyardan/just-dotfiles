@@ -1,13 +1,8 @@
 # theme setting 
 ZSH_THEME="spaceship"
 
-# spaceship order 
-SPACESHIP_PROMPT_ORDER=(
-     user
-     dir 
-     git
-     time
-)
+# add new line 
+SPACESHIP_PROMPT_ADD_NEWLINE=true
 
 # show time 
 SPACESHIP_TIME_SHOW=true

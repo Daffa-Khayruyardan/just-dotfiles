@@ -12,10 +12,13 @@ syntax on
 set cursorline
 set encoding=UTF-8
 set background=dark
-colorscheme palenight
+colorscheme onedark
 set splitbelow
 set splitright
 set noswapfile
+set termguicolors
+set t_BE=
+set clipboard+=unnamedplus
 
 " add mappings
 source ~/.config/nvim/mappings.vim

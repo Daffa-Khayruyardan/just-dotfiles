@@ -23,6 +23,9 @@ map <C-l> <C-W>l
 " nerdtree mapping
 nmap <C-b> :NERDTreeToggle<CR>
 
+" undo mapping 
+nmap <C-z> :undo<CR>
+
 " run code 
 autocmd FileType javascript nnoremap <C-d> :split<CR> :term node %<CR>
 autocmd FileType php nnoremap <C-d> :split<CR> :term php %<CR>

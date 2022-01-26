@@ -18,6 +18,9 @@ echo -e "${GREEN} ###################################"
 echo -e "${GREEN} #         ${CYAN}Setup Dotfiles${GREEN}          #"
 echo -e "${GREEN} ###################################"
 
+# copy alacritty config file 
+cp -R ./.config/alacritty ~/.config/ 
+
 # setup neovim
 echo -e "${CYAN}Setting Up Neovim"
 cp -R .config/nvim ~/.config/ 
