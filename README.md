@@ -1,5 +1,5 @@
 <p align="center">
-
+    <img width="" height="" src="">
 </p> 
 
 ---------
@@ -25,8 +25,6 @@
 - <font size="4"><a href="https://github.com/ryanoasis/vim-devicons">nerdtree dev icon - nerdtree file and folder icons</a></font>
 - <font size="4"><a href="https://github.com/cohama/lexima.vim">lexima - autoclose parantheses plugins</a></font>
 
-<br>
-
 <font size="5">**NOTE**: If you want to find other alacritty theme you can visit <a href="https://clcode.net/articles/color-schemes.md">here</a></font>
 
 # Keymap
@@ -35,7 +33,7 @@
 | ---- | ---- | ---- | 
 | ctrl+q | :qa! | quit neovim |
 | ctrl+s | :wq | save file |
-| ctrl+t | :ToggleTerminal | open and close terminal |
+| ctrl+t | :ToggleTerminal | open and close terminal |
 | ctrl+z | :undo | undo code |
 | ctrl+r | :redo | redo code |
 | ctlr+d | :term % | run code |
@@ -48,3 +46,15 @@
    $ nvm install --lts
    ```
 2. Installing yarn package manager
+   ```
+   $ npm i -g yarn 
+   ```
+3. Run dotfiles setup 
+   ```
+   $ ./install.sh 
+   ```
+4. Refresh zsh configuration 
+   ```
+   $ source ~/.zshrc 
+   ```
+

@@ -4,11 +4,11 @@
 GREEN="\033[0;32m"
 CYAN="\033[0;36m" 
 
-# install dependencies
-sudo apt install wget curl git php 
+# declare font directory
+DIR="~/.local/share/"
 
-# installing font 
-cp -R .fonts ~/
+# install dependencies
+sudo apt install wget curl git  
 
 # clear screen
 clear 
@@ -18,7 +18,19 @@ echo -e "${GREEN} ###################################"
 echo -e "${GREEN} #         ${CYAN}Setup Dotfiles${GREEN}          #"
 echo -e "${GREEN} ###################################"
 
+# install powerfont 
+if [ -d "$DIR" ]
+then 
+    cp -R .fonts ~/.local/share/
+else 
+then 
+    mkdir -p ~/.local/share/
+fi
+
+fc-cache -f -v 
+
 # copy alacritty config file 
+echo -e "${CYAN}Copy alacritty config file"
 cp -R ./.config/alacritty ~/.config/ 
 
 # setup neovim
