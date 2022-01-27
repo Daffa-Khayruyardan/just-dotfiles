@@ -30,16 +30,16 @@
 
 # Keymap
 
-| shortcut | command | action |
-| ---- | ---- | ---- | 
-| ctrl+q | :qa! | quit neovim |
-| ctrl+s | :wq | save file |
-| ctrl+t | :ToggleTerminal | open and close terminal |
-| ctrl+z | :undo | undo code |
-| ctrl+r | :redo | redo code |
-| ctlr+d | :term % | run code |
-| ctrl+t | :tabnew | open empty tab |
-| ctrl+c | :tabclose | close current tab |
+  | shortcut | command | action |
+  | ---- | ---- | ---- | 
+  | ctrl+q | :qa! | quit neovim |
+  | ctrl+s | :wq | save file |
+  | ctrl+t | :Toggle Terminal | open and close terminal |
+  | ctrl+z | :undo | undo code |
+  | ctrl+r | :redo | redo code |
+  | ctlr+d | :term % | run code |
+  | ctrl+t | :tabnew | open empty tab |
+  | ctrl+c | :tabclose | close current tab |
 
 # Installation
 1. Installing NodeJS LTS version using NVM 
@@ -64,3 +64,10 @@
    ```
 
 # Reviews
+  <p align="left">
+    <img width="" heigth="" src="./assets/zsh_terminal.png">     
+  </p>
+
+  <p align="left">
+    <img width="" heigth="" src="./assets/neovim.png">
+  </p>
