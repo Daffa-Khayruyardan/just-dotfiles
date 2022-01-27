@@ -16,6 +16,7 @@
 - <font size="4">python or python3</font>
 - <font size="4">zsh and oh-my-zsh</font>
 - <font size="4">pip</font>
+- <font size="4">ruby and ruby-dev</font>
 
 # Plugins
 - <font size="4"><a href="https://github.com/junegunn/vim-plug">vim plug - minimalist vim plugin manager</a></font>
