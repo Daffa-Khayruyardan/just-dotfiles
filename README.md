@@ -64,10 +64,10 @@
    ```
 
 # Reviews
-  <p align="left">
-    <img width="90%" heigth="90%" src="./assets/zsh_terminal.png">     
+  <p align="center">
+    <img width="92%" heigth="92%" src="./assets/zsh_terminal.png">     
   </p>
 
   <p align="left">
-    <img width="90%" heigth="90%" src="./assets/neovim.png">
+    <img width="92%" heigth="92%" src="./assets/neovim.png">
   </p>
