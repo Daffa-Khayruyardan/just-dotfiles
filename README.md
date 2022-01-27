@@ -64,10 +64,12 @@
    ```
 
 # Reviews
+  <font size="4">ZSH Terminal</font>
   <p align="center">
-    <img width="92%" heigth="92%" src="./assets/zsh_terminal.png">     
+    <img width="89%" heigth="89%" src="./assets/zsh_terminal.png">     
   </p>
 
-  <p align="left">
-    <img width="92%" heigth="92%" src="./assets/neovim.png">
+  <font size="4">Neovim</font>
+  <p align="center">
+    <img width="89%" heigth="89%" src="./assets/neovim.png">
   </p>
