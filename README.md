@@ -65,9 +65,9 @@
 
 # Reviews
   <p align="left">
-    <img width="" heigth="" src="./assets/zsh_terminal.png">     
+    <img width="90%" heigth="90%" src="./assets/zsh_terminal.png">     
   </p>
 
   <p align="left">
-    <img width="" heigth="" src="./assets/neovim.png">
+    <img width="90%" heigth="90%" src="./assets/neovim.png">
   </p>
