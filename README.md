@@ -15,6 +15,7 @@
 - <font size="4">yarn</font>
 - <font size="4">python or python3</font>
 - <font size="4">zsh and oh-my-zsh</font>
+- <font size="4">pip</font>
 
 # Plugins
 - <font size="4"><a href="https://github.com/junegunn/vim-plug">vim plug - minimalist vim plugin manager</a></font>
@@ -45,7 +46,7 @@
    ```
    $ nvm install --lts
    ```
-2. Installing yarn package manager
+2. Install yarn package manager
    ```
    $ npm i -g yarn 
    ```
@@ -57,4 +58,9 @@
    ```
    $ source ~/.zshrc 
    ```
+5. Install neovim plugins
+   ```
+   $ nvim +PlugInstall
+   ```
 
+# Reviews
