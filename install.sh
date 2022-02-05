@@ -22,12 +22,14 @@ echo -e "${GREEN} ###################################"
 if [ -d "$DIR" ]
 then 
     cp -R .fonts ~/.local/share/
-else 
-then 
+else  
     mkdir -p ~/.local/share/
 fi
 
 fc-cache -f -v 
+
+# install nvm 
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | zsh
 
 # copy alacritty config file 
 echo -e "${CYAN}Copy alacritty config file"
