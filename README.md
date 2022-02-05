@@ -26,6 +26,7 @@
 - <font size="4"><a href="https://github.com/joshdick/onedark.vim">one dark theme - neovim dark theme</a></font>
 - <font size="4"><a href="https://github.com/ryanoasis/vim-devicons">nerdtree dev icon - nerdtree file and folder icons</a></font>
 - <font size="4"><a href="https://github.com/cohama/lexima.vim">lexima - autoclose parantheses plugins</a></font>
+- <font size="4"><a href="https://github.com/andweeb/presence.nvim">presence - show neovim status on discord</a></font>
 
 <font size="5">**NOTE**: If you want to find other alacritty theme you can visit <a href="https://clcode.net/articles/color-schemes.md">here</a></font>
 
