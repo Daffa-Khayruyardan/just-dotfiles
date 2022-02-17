@@ -4,7 +4,7 @@
 
 ---------
 <font size="5">
-    Dotfiles configuration for linux and windows platform, with neovim and zsh, with neovim lsp 
+    Dotfiles configuration for linux platform, with neovim and zsh, with neovim lsp 
     and intellisense support some useful plugins and zsh configuration with beautiful prompt and
     plugins for command line.
 </font>
